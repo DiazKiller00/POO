@@ -1,0 +1,13 @@
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+F:\VS Projects\buclesTest2\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+F:\VS Projects\buclesTest2\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+F:\VS Projects\buclesTest2\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+F:\VS Projects\buclesTest2\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+F:\VS Projects\buclesTest2\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+F:\VS Projects\buclesTest2\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

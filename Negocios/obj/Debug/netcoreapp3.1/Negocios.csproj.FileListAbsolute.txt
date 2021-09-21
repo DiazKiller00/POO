@@ -1,0 +1,15 @@
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.AssemblyReference.cache
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfoInputs.cache
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfo.cs
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CoreCompileInputs.cache
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Negocios.deps.json
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Negocios.dll
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Negocios.pdb
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Datos.dll
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Entidades.dll
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Datos.pdb
+F:\VS Projects\buclesTest2\Negocios\bin\Debug\netcoreapp3.1\Entidades.pdb
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CopyComplete
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.dll
+F:\VS Projects\buclesTest2\Negocios\obj\Debug\netcoreapp3.1\Negocios.pdb

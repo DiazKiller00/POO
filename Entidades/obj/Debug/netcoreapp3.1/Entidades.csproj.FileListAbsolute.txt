@@ -1,0 +1,10 @@
+F:\VS Projects\buclesTest2\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+F:\VS Projects\buclesTest2\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+F:\VS Projects\buclesTest2\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+F:\VS Projects\buclesTest2\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
